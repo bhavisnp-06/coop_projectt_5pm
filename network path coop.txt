@@ -1,1 +1,7 @@
+
+ Network Path for Development
+\\DESKTOP-A2VL768\Users\De\OneDrive\Documents\Power BI Desktop\practices\Multi Customer DWH-Tabular Cube Data.xlsx
+
+
+ Network Path for testing
 \\DESKTOP-A2VL768\Users\De\OneDrive\Documents\Power BI Desktop\practices\Multi Customer DWH-Tabular Cube Data.xlsx
